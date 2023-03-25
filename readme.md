@@ -24,6 +24,7 @@ Holi, mi nombre es Germán Urrea, soy originario de coyhaique y actualmente teng
 - Tengo ~~pésimos~~ conocimientos de programación en los lenguajes C, Python y Javascript.
 - Según el examen TOEFL ITP, mi nivel de inglés es C1.
 <br>
+
 ## Info génerica, pero menos aburrida (?
 <br>
 
