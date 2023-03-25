@@ -20,7 +20,7 @@ Holi, mi nombre es Germán Urrea, soy originario de coyhaique y actualmente teng
 
 <br>
 
-- Voy en 6to año de Ing. Civil en computación FCFM
+- Voy en 6to año de Ing. Civil en computación en la FCFM
 - Tengo ~~pésimos~~ conocimientos de programación en los lenguajes C, Python y Javascript.
 - Según el examen TOEFL ITP, mi nivel de inglés es C1.
 <br>
