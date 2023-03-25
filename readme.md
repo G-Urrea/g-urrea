@@ -25,7 +25,7 @@ Holi, mi nombre es Germán Urrea, soy originario de coyhaique y actualmente teng
 - Según el examen TOEFL ITP, mi nivel de inglés es C1.
 <br>
 
-## Info génerica, pero menos aburrida (?
+## Info genérica, pero menos aburrida (?
 <br>
 
 - Según mi cuenta de MyAnimeList, he leído 28 mangas y visto ... ¿¡136 animes!? ~~Parece que necesito otros pasatiempos~~
