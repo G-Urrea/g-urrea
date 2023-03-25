@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src='https://dgoz6t0l59f4w.cloudfront.net/blog_article_assets/images/000/002/324/original/centrocoyhaique_2.jpg?1604373267' style="border-radius: 12px"> 
-    <em>Centro de Coyhaique</em>
+    <p><em>Centro de Coyhaique</em><p>
 </div>
 
 <br>
