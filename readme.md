@@ -16,16 +16,16 @@ Holi, mi nombre es Germán Urrea, soy originario de coyhaique y actualmente teng
 
 <br>
 
-## Info genérica 
+## Información básica 
 
 <br>
 
 - Voy en 6to año de Ing. Civil en computación en la FCFM
-- Tengo ~~pésimos~~ conocimientos de programación en los lenguajes C, Python y Javascript.
+- Tengo conocimientos de programación en los lenguajes C, Python y Javascript.
 - Según el examen TOEFL ITP, mi nivel de inglés es C1.
 <br>
 
-## Info genérica, pero menos aburrida (?
+## Info menos aburrida
 <br>
 
 - Según mi cuenta de MyAnimeList, he leído 28 mangas y visto ... ¿¡136 animes!? ~~Parece que necesito otros pasatiempos~~
